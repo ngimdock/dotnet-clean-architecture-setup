@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/helloWorld.csproj": {}
+    "/home/ngimdock/Documents/projets/traveaux/dotnet/dotnet-clean-architecture-setup/helloWorld.csproj": {}
   },
   "projects": {
-    "/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/helloWorld.csproj": {
+    "/home/ngimdock/Documents/projets/traveaux/dotnet/dotnet-clean-architecture-setup/helloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/helloWorld.csproj",
+        "projectUniqueName": "/home/ngimdock/Documents/projets/traveaux/dotnet/dotnet-clean-architecture-setup/helloWorld.csproj",
         "projectName": "helloWorld",
-        "projectPath": "/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/helloWorld.csproj",
+        "projectPath": "/home/ngimdock/Documents/projets/traveaux/dotnet/dotnet-clean-architecture-setup/helloWorld.csproj",
         "packagesPath": "/home/ngimdock/.nuget/packages/",
-        "outputPath": "/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/obj/",
+        "outputPath": "/home/ngimdock/Documents/projets/traveaux/dotnet/dotnet-clean-architecture-setup/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ngimdock/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mi/cjYny439ZZwpib+WBQVsRuNObdZqKif8no4XQ9QAmFKDPyj5FzyIRpUZ6Csy5t2ZwUQBvveGPrly2/aXlVw==",
+  "dgSpecHash": "RmHzzph4xAWBUBJST7O2U7CXFkhfEP5CytuDZAhJKE6np1ED/I1YwE2An7TMPVEUB9gMP9gCvxViw3mnL+6YiA==",
   "success": true,
-  "projectFilePath": "/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/helloWorld.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/ngimdock/Documents/projets/traveaux/dotnet/dotnet-clean-architecture-setup/helloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/ngimdock/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/home/ngimdock/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/ngimdock/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
