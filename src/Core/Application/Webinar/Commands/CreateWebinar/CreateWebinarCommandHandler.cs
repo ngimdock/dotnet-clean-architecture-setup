@@ -14,6 +14,13 @@ internal sealed class CreateWebinarCommandHandler: ICommandHandler<CreateWebiner
   private readonly IUnitOfWork _unitOfWork;
 
 
+  public CreateWebinarCommandHandler(IWebinarRepository webinarRepository, IUnitOfWork unitOfWork){
+    
+    _webinarRepository = webinarRepository;
+    _unitOfWork = unitOfWork;
+  }
+
+
   public async Task<Guid> Handle(CreateWebinarCommand request, CancellationToken cancellationToken) {
 
     var webinar = new Webinar(Guid.NewGuid(), request.Name, request.ScheduledOn);
