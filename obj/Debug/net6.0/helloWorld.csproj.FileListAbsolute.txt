@@ -1,0 +1,15 @@
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/bin/Debug/net6.0/helloWorld
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/bin/Debug/net6.0/helloWorld.deps.json
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/bin/Debug/net6.0/helloWorld.runtimeconfig.json
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/bin/Debug/net6.0/helloWorld.dll
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/bin/Debug/net6.0/ref/helloWorld.dll
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/bin/Debug/net6.0/helloWorld.pdb
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/obj/Debug/net6.0/helloWorld.csproj.AssemblyReference.cache
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/obj/Debug/net6.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfoInputs.cache
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfo.cs
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/obj/Debug/net6.0/helloWorld.csproj.CoreCompileInputs.cache
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/obj/Debug/net6.0/helloWorld.dll
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/obj/Debug/net6.0/ref/helloWorld.dll
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/obj/Debug/net6.0/helloWorld.pdb
+/home/ngimdock/Documents/projets/traveaux/dotnet/helloWorld/obj/Debug/net6.0/helloWorld.genruntimeconfig.cache
