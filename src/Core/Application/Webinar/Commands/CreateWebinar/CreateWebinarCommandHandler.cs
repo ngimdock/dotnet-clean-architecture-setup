@@ -5,7 +5,7 @@ using Application.Abstractions.Messaging;
 using Domain.Abstractions;
 using Domain.Entities;
 
-namespace Application.Webinar.Commands.CreateWebinar;
+namespace Application.Webinar.Commands;
 
 
 internal sealed class CreateWebinarCommandHandler: ICommandHandler<CreateWebinerCommand, Guid> {
